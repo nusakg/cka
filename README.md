@@ -1,5 +1,6 @@
 # cka
 Learning about Kubernetes
+Want to learn about version control
 # CKA (Project Title)
 
 This is just a learning space.
